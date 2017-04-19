@@ -1,23 +1,11 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.12",
+	"EngineAssociation": "4.15",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "OculusLibrary",
-			"Enabled": false
-		},
-		{
-			"Name": "OculusRift",
-			"Enabled": false
-		},
-		{
 			"Name": "SteamVR",
-			"Enabled": false
-		},
-		{
-			"Name": "OculusInput",
 			"Enabled": false
 		},
 		{
